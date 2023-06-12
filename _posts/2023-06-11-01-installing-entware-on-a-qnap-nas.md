@@ -26,7 +26,7 @@ PATH=/opt/bin:/opt/sbin:$PATH
 
 4. Log out and back in (or simply run `source ~/.profile`). `opkg` is now available, though you'll still need to use `sudo` (just like you would when using `apt` on a Debian-based Linux distribution).
 
-    Run `sudo opkg update` to upate the list of packages, then `sudo opkg list` to see which packages are available. You can now install any of them with `sudo opkg install`. For example if you want to be able to use [zsh], simply install it with `sudo opkg install zsh`.
+    Run `sudo opkg update` to upate the list of packages, then `sudo opkg list` to see which packages are available. You can now install any of them with `sudo opkg install`. For example if you want to be able to use [Zsh][zsh], simply install it with `sudo opkg install zsh`.
 
 That's it! If you have other user accounts, you'll need to repeat step 3 for each of them so they can also use the binaries installed via `opkg`.
 
@@ -36,3 +36,4 @@ That's it! If you have other user accounts, you'll need to repeat step 3 for eac
 [entware-wiki-qnap-install]: https://github.com/Entware/Entware/wiki/Install-on-QNAP-NAS
 [entware-qnap-forum-thread]: https://forum.qnap.com/viewtopic.php?f=351&t=139781
 [entware-std-qpkg]: http://bin.entware.net/other/Entware_1.03a_std.qpkg
+[zsh]: https://en.wikipedia.org/wiki/Z_shell
