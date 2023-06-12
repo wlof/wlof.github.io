@@ -55,4 +55,5 @@ Happy torrenting!
 [qbittorrent]: https://www.qbittorrent.org/
 [iana]: http://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml
 [container-station]: https://www.qnap.com/en/software/container-station
+[tailscale]: https://tailscale.com/
 [tz-db-time-zones]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
